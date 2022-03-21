@@ -1,1 +1,1 @@
-My first readme
+README file for the new dir
